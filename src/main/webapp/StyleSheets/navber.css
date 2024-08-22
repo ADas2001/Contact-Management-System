@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navber{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 30px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navber-title
+{
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+.navber-link
+{
+    color: rgb(8, 0, 255);
+    text-decoration: none;
+    margin: 0 10px;
+}
+.navber-link:hover
+{
+    text-decoration: underline;
+}

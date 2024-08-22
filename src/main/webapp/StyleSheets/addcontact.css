@@ -1,0 +1,21 @@
+.addcontact{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	border: 2px solid rgb(0, 0, 0);
+	width: 500px;
+	margin: auto;
+}
+form
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.submit
+{
+	display: flex;
+	gap: 20px;
+}
